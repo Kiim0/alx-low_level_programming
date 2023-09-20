@@ -1,7 +1,11 @@
 #include <stdio.h>
+
 /**
- * test
- */
+ * main-Entry point
+ *
+ * Description:'so that the program prints'
+ * Return: Always 0
+*/
 int main(void)
 {
 int n;
